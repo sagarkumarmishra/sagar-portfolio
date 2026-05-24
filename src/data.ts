@@ -3,7 +3,7 @@ export const resumeData = {
     name: "Sagar Mishra",
     title: "Senior Data Engineer",
     subtitle: "@NTT | SQL | Python | Snowflake | Apache Spark | Microsoft Azure | Kubernetes | Git",
-    summary: "Senior Data Engineer with 6 years of experience in designing and optimizing data pipelines using SQL, Python, and Snowflake. Strong background in ETL development, data warehousing, and large-scale data processing in cloud environments. Hands-on experience with AWS services, including S3, and exposure to Glue-based workflows. Skilled in building API-driven data ingestion pipelines and improving data quality, performance, and reliability. Comfortable working with both batch and near real-time data processing systems, with a focus on scalable and efficient data solutions."
+    summary: "Senior Data Engineer with 6 years of experience in designing and optimizing data pipelines using SQL, Python, and Snowflake. Strong background in ETL development, data warehousing, and large-scale data processing in cloud environments. Hands-on experience with AWS services, including S3, and exposure to Glue-based workflows. Skilled in building API-driven data ingestion pipelines and improving data quality, performance, and reliability. Comfortable working with both batch and near real-time data processing systems, with a focus on scalable and efficient data solutions.",
     location: "New Delhi, Delhi, India",
     email: "sagar.mishra7835@gmail.com",
     phone: "98183345264",
