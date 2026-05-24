@@ -1,9 +1,9 @@
 export const resumeData = {
   basics: {
     name: "Sagar Mishra",
-    title: "Data Engineer",
-    subtitle: "@Innovaccer | SQL | Python | Snowflake | Apache Spark | Microsoft Azure | Kubernetes | Git",
-    summary: "Experience as a Data Engineer, specialize in building efficient data pipelines and optimizing ETL workflows. With expertise in Python, SQL, Snowflake, and Power BI, transform complex raw data into actionable insights, driving informed decision-making through effective data modeling and integration.",
+    title: "Senior Data Engineer",
+    subtitle: "@NTT | SQL | Python | Snowflake | Apache Spark | Microsoft Azure | Kubernetes | Git",
+    summary: "Experience as a Data Engineer, specializing in building efficient data pipelines and optimizing ETL workflows. With expertise in Python, SQL, Snowflake, and Power BI, transform complex raw data into actionable insights, driving informed decision-making through effective data modeling and integration.",
     location: "New Delhi, Delhi, India",
     email: "sagar.mishra7835@gmail.com",
     phone: "98183345264",
@@ -15,6 +15,29 @@ export const resumeData = {
     { label: "Automation", value: "GenAI", context: "LLM-driven pipeline validation", type: "innovation" }
   ],
   experience: [
+    {
+  company: "NTT Data Business Solutions",
+  role: "Senior Data Engineer",
+  dates: "October 2025 - Present",
+  location: "Delhi, India",
+  type: "Full-time",
+  bullets: [
+    "Developed scalable ETL pipelines using Python, SQL, Snowflake, AWS S3, and Redshift for large-scale insurance datasets.",
+    "Built API-based ingestion pipelines using REST APIs, JSON, and structured data sources.",
+    "Developed and optimized stored procedures, SQL queries, and transformation logic for reporting and analytics.",
+    "Worked on batch and near-real-time data processing workflows using Snowflake and AWS services.",
+    "Supported AWS Glue-based ETL workflows and cloud data integration processes.",
+    "Performed data validation, cleansing, and transformation to ensure data quality and consistency.",
+    "Improved pipeline performance and query execution time through optimization and tuning techniques.",
+    "Collaborated with business teams, analysts, and cross-functional stakeholders in Agile/Scrum environments.",
+    "Worked with Git, CI/CD practices, and workflow orchestration tools for deployment and monitoring.",
+    "Maintained technical documentation and supported production issue resolution for critical data pipelines."
+  ],
+  impactMarkers: [
+    { index: 0, type: "scale", label: "Scalable ETL Pipelines" },
+    { index: 6, type: "optimization", label: "Performance Optimization" }
+  ]
+},
     {
       company: "Innovaccer",
       role: "Data Engineer",
